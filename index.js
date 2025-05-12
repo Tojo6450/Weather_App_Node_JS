@@ -1,3 +1,4 @@
+
 const readline = require("readline");
 
 const API_KEY = "911606da19e230428e07486f8b47abc6";
@@ -35,3 +36,6 @@ const getWeather = async (city) => {
 rl.question("Enter city name: ", (city) => {
   getWeather(city).finally(() => rl.close());
 });
+
+
+

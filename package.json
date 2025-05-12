@@ -1,0 +1,25 @@
+{
+  "name": "weather_app_using_nodejs",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000W\u0000e\u0000a\u0000t\u0000h\u0000e\u0000r\u0000_\u0000A\u0000p\u0000p\u0000_\u0000N\u0000o\u0000d\u0000e\u0000_\u0000J\u0000S\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tojo6450/Weather_App_Node_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tojo6450/Weather_App_Node_JS/issues"
+  },
+  "homepage": "https://github.com/Tojo6450/Weather_App_Node_JS#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
